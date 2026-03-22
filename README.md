@@ -15,7 +15,7 @@
 * TypeScript
 
 📫 Contato:
-LinkedIn: [link](https://www.linkedin.com/in/kaique-de-oliveira-martins/)
+LinkedIn: [link](https://www.linkedin.com/in/kaique-de-oliveira-martins/) <br>
 Email: kaiquexoliveira15@gmail.com
 
 
